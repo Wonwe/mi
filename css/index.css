@@ -1,4 +1,6 @@
+html,
 body {
+  min-width: 1226px;
   background-color: #f5f5f5;
 }
 
