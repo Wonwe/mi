@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "82664100",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "82664101",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "82664102",
+      "name": "右箭头",
+      "font_class": "right-circle-fill",
+      "unicode": "eb22",
+      "unicode_decimal": 60194
+    },
+    {
+      "icon_id": "82664103",
+      "name": "播放",
+      "font_class": "14kejichuangxin-bofang",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "700805",
+      "name": "顶部",
+      "font_class": "dingbu",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1240787",
+      "name": "信息",
+      "font_class": "xinxi",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "2733969",
+      "name": "人工任务",
+      "font_class": "rengongrenwu",
+      "unicode": "e6ee",
+      "unicode_decimal": 59118
+    },
+    {
+      "icon_id": "4485645",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e52a",
+      "unicode_decimal": 58666
+    }
+  ]
+}
